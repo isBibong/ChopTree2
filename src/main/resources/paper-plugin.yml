@@ -1,0 +1,4 @@
+name: ChopTree2
+version: '${project.version}'
+main: pers.bibong.choptree2.ChopTree2
+api-version: '1.20'
